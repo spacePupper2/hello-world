@@ -45,7 +45,7 @@ Huh, what is horizontal rule? It says, I should put a blank line before "---" an
 
 ---
 
-![Stars](https://pixnio.com/space/dark-abstract-constellation-galaxy-astronomy-planet-night-dark-sky)
+![Dog](https://upload.wikimedia.org/wikipedia/commons/4/43/Cute_dog.jpg)
 
 ---
 

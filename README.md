@@ -12,6 +12,13 @@ My first repository!
 **The bold!**
 ***The brave and the bold!***
 
+Hmm...apparently we need a blank line to signal new line.
+
+This is line x of the file.
+This is line x+1 of the file.
+
+This is line x+3 of the file. 
+
 > This is some blockquote? 
 > What is this actually doing?
 > Hmm...

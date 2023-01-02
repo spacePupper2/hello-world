@@ -33,13 +33,13 @@ This is line x+3 of the file.
 - Two
 - Three 
 
-Use opening and closing `` to make code look like this: `git init [repository name]`
+Use opening and closing \` to make code look like this: `git init [repository name]`
 
 --- 
 
 Huh, what is horizontal rule? It says, I should put a blank line before "---" and after
 
---
+---
 
 [Link](https://www.google.com)
 
@@ -58,7 +58,15 @@ Table
 
 ---
 
-Use '''''' to block out code
+Use opening and closing \`\`\` to show snippets of code
+
+Like this: 
+
+```
+Woah!
+
+Boy!
+```
 
 --- 
 

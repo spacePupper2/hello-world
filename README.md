@@ -82,11 +82,15 @@ Term
 
 --- 
 
-==~~Highlight Strike!~~==
+~~Strike!~~
+
+<mark style="background-color: #FFFF00">Highlight</mark>
+
+Why is ==highlight== not working?
 
 ---
 
 - [ ] Task
-- [ ] Got H~2~O?
-- [ ] Got Super^super^?
+- [ ] Got H<sub>2</sub>O?
+- [ ] Got Super<sup>super</super>?
 - [ ] Got joy :joy:?

@@ -20,7 +20,9 @@ This is line x+1 of the file.
 This is line x+3 of the file. 
 
 > This is some blockquote? 
+> 
 > What is this actually doing?
+> 
 > Hmm...
 
 1. First
@@ -31,7 +33,7 @@ This is line x+3 of the file.
 - Two
 - Three 
 
-Use opening and closing '' to make code look like this: 'git init [repository name]'
+Use opening and closing `` to make code look like this: `git init [repository name]`
 
 --- 
 
